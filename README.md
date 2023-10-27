@@ -1,0 +1,1 @@
+This repo has all the notes of operating system concepts that I am learning from this book ➡[Operating System Concepts By Abraham Silberschatz, Peter B. Galvin, Greg Gagne](https://www.amazon.in/gp/product/B074G46V8F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
